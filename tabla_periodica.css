@@ -1,0 +1,73 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+body
+{
+    max-width: 1024px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+}
+section
+{
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+}
+h2
+{
+    width: 4.5%;
+    padding: 0;
+    margin: 1px 2px;
+    color: red;
+    font-size: 15px;
+    text-align: center;
+    vertical-align: middle;
+    display: inline-block;
+}
+.especial
+{
+    width: 9%;
+    margin: 1px 12px 1px 0px;
+    text-align: left;
+}
+article
+{
+    width: 4.5%;
+    padding: 0;
+    margin: 1px;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+}
+article p
+{
+    font-size: 12px;
+    width: 100%;
+}
+article h1
+{
+    font-size: 18px;
+    width: 100%;
+    color: blue;
+}
+.azul
+{
+    background-color: cornflowerblue;
+}
+.amarillo
+{
+    background-color: yellow;
+}
+.rosado
+{
+    background-color: salmon;
+}
+.verde
+{
+    background-color: rgb(23, 179, 23);
+}
