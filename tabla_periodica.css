@@ -6,7 +6,7 @@
 body
 {
     max-width: 1024px;
-    width: 100%;
+    width: 1024px;
     margin: 0 auto;
     padding: 0;
 }
@@ -70,4 +70,16 @@ article h1
 .verde
 {
     background-color: rgb(23, 179, 23);
+}
+#lantanids
+{
+    margin-top: 30px;
+}
+#hidro
+{
+    margin-right: 84.5%;
+}
+#mag
+{
+    margin-right: 52.9%;
 }
